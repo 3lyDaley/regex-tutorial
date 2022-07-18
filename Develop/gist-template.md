@@ -1,13 +1,14 @@
 # Regex tutorial: Matching a URL  
 
+
+## Summary
+
 A tutorial on the regex expression that checks and matches a URL:
+
 ```
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 ```
 
-## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
