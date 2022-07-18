@@ -18,7 +18,7 @@ In order to learn more about the functions within a common regex, I researched t
 The goal is to promote a basic level of understanding in using Regex expressions that have already been made until I am comfortable enough to learn how to write custom expressions for unique scenarios. This tutorial is to encourage others to do the same!
 </p>
 
-Here is [a link]('') to the tutorial!
+Here is [a link]('./Develop/urlRegexTutorial.md') to the tutorial!
 
 ## Acknowledgements
 
