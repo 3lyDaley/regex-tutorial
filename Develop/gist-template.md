@@ -88,7 +88,7 @@ Refer to [OR Operator](#or-operator) for a brief decsription of capturing. Group
 <br>
 Example: 
 <br>
-A URL is generally in the format of 'https://www.somewebsitehere.com/someidcontaining23213or!@#^%/'.<br>
+A URL is generally in the format of '`https://www.somewebsitehere.com/someidcontaining23213or!@#^%/`'.<br>
 The structure of our redex allows each individual portion to contain any and all possible characters in the standard order of a URL. <br>
 
 `(https?:\/\/)` followed by `([\da-z\.-]+)` followed by `.([a-z\.]{2,6})` and ending with `([\/\w \.-]*)` and a possible forward slash `*\/?`. 
